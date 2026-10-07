@@ -14,7 +14,7 @@
 | Cost | free for the standard use case |
 | Requirements | 64-bit OS, 4 GB RAM, 200 MB disk, internet |
 | Current version | [official page](https://githubguru.at/s/QkUhB15G) |
-| Updated | 2026-10-06 |
+| Updated | 2026-10-07 |
 
 ## What it is
 
@@ -80,4 +80,4 @@ MIT — use it, share it, credit appreciated:
 
 ---
 
-*quiet-reef-441 · 2026-10-06*
+*quiet-reef-441 · 2026-10-07*
